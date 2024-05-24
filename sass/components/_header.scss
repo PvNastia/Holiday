@@ -1,0 +1,89 @@
+.back-img {
+    background-image: url(/images/Vector\ Smart\ Object\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 18px;
+    height: 540px;
+    text-align: center;
+
+}
+
+.header-btn {
+   
+    gap: 9px;
+    display: block;
+    justify-content: center;
+    margin-top: 19px;
+
+    &__item {
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 17px;
+        color: #FFFFFF;
+        text-align: center;
+        padding: 11px 4px;
+        width: 92px;
+        height: 39px;
+
+    }
+
+    &__circle {
+        border-radius: 30px;
+        border: 2px solid #FFFFFF;
+        background: rgba(26, 25, 21, 0);
+    }
+}
+
+.logo {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 112px;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 22px 9px;
+}
+
+.header-text {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 31px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 28px 12px;
+}
+
+.header-button {
+    border: none;
+    outline: none;
+    text-align: center;
+    min-width: 282px;
+    padding: 13px 38px;
+    height: 43px;
+    background-color: rgb(255, 78, 80);
+    border-radius: 30px;
+}
+
+.header-button>a {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    color: #FFFFFF;
+    text-align: center;
+    align-items: center;
+
+}

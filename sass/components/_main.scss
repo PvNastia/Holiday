@@ -1,0 +1,60 @@
+.part1{
+    padding: 60px 13px;
+    background-color: #FFFFFF;
+    justify-content: center;
+}
+
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    color: #333333;
+    text-align: center;
+    margin-top: 112px;
+    background-color: #FFFFFF;
+    padding: 60px 13px;
+}
+.foto-list{
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    gap: 32px;
+    &__item{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+      
+        img{
+            width: 121px;
+            height: 120px;
+            justify-content: center;
+            text-align: center;
+            margin: 10px 68px;
+        }
+        span{
+            font-family: "Montserrat", sans-serif;
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 17px;
+            color: #333333;
+           
+            margin-top: 12px;
+            text-align: center;
+           
+        }
+        p{
+            font-family: "Roboto", sans-serif;
+            font-size: 14px;
+            font-weight: 300;
+            line-height: 17px;
+            width: 224px;
+            color: #333333;
+            text-align: center;
+            margin:  13px;
+            
+        }
+    }
+}
