@@ -4,7 +4,7 @@ footer {
 }
 
 .footer-btn {
-  min-width: 280px;
+  width: 280px;
   height: 40px;
   border: #FF4E50 solid 2px;
   border-radius: 30px;
@@ -94,7 +94,7 @@ h1 {
   border: none;
   outline: none;
   text-align: center;
-  min-width: 282px;
+  width: 282px;
   padding: 13px 38px;
   height: 43px;
   background-color: rgb(255, 78, 80);
